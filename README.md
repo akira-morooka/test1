@@ -1,4 +1,4 @@
 # test1
 test
 
-hotfix -mor
+hotfix 1
